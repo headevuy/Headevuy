@@ -4,9 +4,7 @@
 <title>Page Title</title>
 </head>
 <body>
-  
-<video src="C:\Users\Usuario\Desktop\Logo\¡HEadevuy.mp4" autoplay loop></video>
-
+  <a href="https://www.canva.com/design/DAFk49v3vvU/VUCE8h-3hORENpI51dTOwA/edit"></a>
 </body>
 </html>
 
