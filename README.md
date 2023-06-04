@@ -5,9 +5,7 @@
 </head>
 <body>
   
-<iframe width="560" height="315"
-src="https://github.com/headevuy/Headevuy/assets/135540682/375594d5-6587-45b7-a179-2494566b9be1"frameborder="0"
-allowfullscreen></iframe>
+<video src="https://github.com/headevuy/Headevuy/assets/135540682/375594d5-6587-45b7-a179-2494566b9be1" autoplay muted loop></video>
 
 </body>
 </html>
